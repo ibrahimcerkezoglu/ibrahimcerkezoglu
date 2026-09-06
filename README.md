@@ -61,7 +61,7 @@ Kurumsal toplu SMS ve WhatsApp mesajlaşması için admin panelli bir gateway. A
 
 ## Deneyim & Diğer Çalışmalar
 
-- **Koresan.com / smart.koresan.com** — 1+ yıldır bu markanın e-ticaret operasyonlarını yönetiyorum: Trendyol, Hepsiburada ve WooCommerce/WordPress arasında API entegrasyonları, stok/ürün senkronizasyon yazılımları ve teknik destek.
+- **Koresan.com / smart.koresan.com** — Çok kanallı e-ticaret altyapısını yönetiyorum: Trendyol, Hepsiburada ve WooCommerce/WordPress arasında ürün, stok ve sipariş senkronizasyonunu sağlayan API entegrasyonlarını kurdum ve sürdürüyorum.
 - **Büyük ölçekli üretim/tedarik tesisi (IT Stajı)** — 1000+ çalışana 20 dakikada toplu SMS/WhatsApp gönderebilen rate-limitli bir mesajlaşma sistemi ve HSE için sertifika takip sistemi geliştirdim; 650+ cihazın domain geçiş operasyonuna destek verdim.
 - **Freelance** — Perde mağazası, restoran ve elektrik servisi gibi farklı sektörlere özel CRM/admin panel sistemleri; bir markanın WooCommerce altyapısını Cloudflare + cache optimizasyonuyla hızlandırdım.
 - **Kurumsal danışmanlık (PMO Stajı)** — Kurumsal GenAI/Copilot kullanım senaryoları üzerine araştırma ve sunum.
@@ -80,6 +80,7 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)

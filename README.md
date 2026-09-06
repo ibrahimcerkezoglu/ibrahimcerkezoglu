@@ -1,7 +1,7 @@
 # İbrahim Çerkezoğlu
 
 Full Stack Developer — ASP.NET Core & SQL Server odaklı, yapay zekâ entegrasyonlu web ve mobil sistemler geliştiriyorum.
-Bilgisayar Mühendisliği (Lisans) · Gaziantep, Türkiye · Uzaktan / Hibrit çalışmaya uygun · Türkçe (Ana Dil) · English (B1)
+Bilgisayar Mühendisliği (Lisans) · Uzaktan / Hibrit çalışmaya uygun · Türkçe (Ana Dil) · English (B1)
 
 Karmaşık iş süreçlerini (pazaryerleri, muhasebe/ödeme sistemleri, admin panelleri) ölçeklenebilir mimarilere dönüştürüyor, yapay zekâyı gerçek ürünlere entegre ediyorum. Aşağıdaki projelerin çoğu 3+ yıldır aktif geliştirdiğim, gerçek kullanıcıları olan sistemler.
 

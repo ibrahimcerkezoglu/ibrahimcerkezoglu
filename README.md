@@ -1,7 +1,8 @@
 # İbrahim Çerkezoğlu
 
-Full Stack Developer — ASP.NET Core & SQL Server odaklı, yapay zekâ entegrasyonlu web ve mobil sistemler geliştiriyorum.
+Full Stack Developer — .NET Core & SQL Server odaklı, yapay zekâ entegrasyonlu web ve mobil sistemler geliştiriyorum.
 Bilgisayar Mühendisliği (Lisans) · Uzaktan / Hibrit çalışmaya uygun · Türkçe (Ana Dil) · English (B1)
+🌐 [ibrahimcerkezoglu.dev](https://ibrahimcerkezoglu.dev)
 
 Karmaşık iş süreçlerini (pazaryerleri, muhasebe/ödeme sistemleri, admin panelleri) ölçeklenebilir mimarilere dönüştürüyor, yapay zekâyı gerçek ürünlere entegre ediyorum. Aşağıdaki projelerin çoğu 3+ yıldır aktif geliştirdiğim, gerçek kullanıcıları olan sistemler.
 
@@ -75,7 +76,7 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 ## Teknolojiler
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -90,5 +91,6 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 
 ## İletişim
 
+[![Website](https://img.shields.io/badge/Website-ibrahimcerkezoglu.dev-000000?style=flat&logo=googlechrome&logoColor=white)](https://ibrahimcerkezoglu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimcerkezoglu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cerkezogluibrahim@gmail.com)

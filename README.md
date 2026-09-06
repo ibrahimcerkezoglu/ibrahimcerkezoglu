@@ -14,7 +14,7 @@ Karmaşık iş süreçlerini (pazaryerleri, muhasebe/ödeme sistemleri, admin pa
 `ASP.NET Core` `Angular` `SignalR` `OpenAI Embeddings` `ONNX Runtime`
 
 **Sosyal Medya/Oyun Coin Bayileri için Muhasebe & Ödeme Otomasyonu**
-TikTok tarzı platformlarda kullanılan sanal (uygulama içi) coin bayileri için geliştirdiğim, ~70.000 satırlık bir muhasebe ve ödeme mutabakat sistemi — kripto para ile ilgisi yok. Banka makbuz tarayıcıları, ödeme sağlayıcıları ve e-fatura dahil 8 farklı dış servisle entegre çalışan arka plan worker'ları, gerçek zamanlı makbuz bildirimleri için bir SignalR hub'ı. 67+ aşamalı migration geçmişiyle uzun süredir aktif geliştiriliyor.
+TikTok tarzı platformlarda kullanılan sanal (uygulama içi) coin bayileri için geliştirdiğim, ~70.000 satırlık bir muhasebe ve ödeme mutabakat sistemi. Banka makbuz tarayıcıları, ödeme sağlayıcıları ve e-fatura dahil 8 farklı dış servisle entegre çalışan arka plan worker'ları, gerçek zamanlı makbuz bildirimleri için bir SignalR hub'ı. 67+ aşamalı migration geçmişiyle uzun süredir aktif geliştiriliyor.
 `ASP.NET Core` `EF Core` `SignalR` `Background Workers`
 
 **AI Destekli Freelancer Pazaryeri**

@@ -85,6 +85,7 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress_/_WooCommerce-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Local_AI_/_Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---

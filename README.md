@@ -102,4 +102,4 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 [![Website](https://img.shields.io/badge/Website-ibrahimcerkezoglu.dev-a855f7?style=flat&logo=googlechrome&logoColor=white)](https://ibrahimcerkezoglu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimcerkezoglu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cerkezogluibrahim@gmail.com)
-[![CV](https://img.shields.io/badge/CV_İndir-06b6d4?style=flat&logo=readdotcv&logoColor=white)](https://ibrahimcerkezoglu.dev/cv/ibrahim-cerkezoglu-cv.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-06b6d4?style=flat&logo=readdotcv&logoColor=white)](https://ibrahimcerkezoglu.dev/cv/ibrahim-cerkezoglu-cv-en.pdf)

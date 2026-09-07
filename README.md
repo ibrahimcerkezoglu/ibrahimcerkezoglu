@@ -1,11 +1,13 @@
 # İbrahim Çerkezoğlu
 
+<sup>🇹🇷 Türkçe · 🇬🇧 [English](README.en.md)</sup>
+
 Full Stack Developer — .NET Core & SQL Server odaklı, yapay zekâ entegrasyonlu web ve mobil sistemler geliştiriyorum.
 Bilgisayar Mühendisliği (Lisans) · Uzaktan / Hibrit çalışmaya uygun · Türkçe (Ana Dil) · English (B1)
 
 <p>
   <a href="https://ibrahimcerkezoglu.dev">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio_Site-Case_Studies_%7C_CV_%7C_Contact-a855f7?style=for-the-badge&logoColor=white" alt="ibrahimcerkezoglu.dev" />
+    <img src="https://img.shields.io/badge/🌐_Portfolyo_Sitem-Proje_Detaylari_%7C_CV_%7C_Iletisim-a855f7?style=for-the-badge&logoColor=white" alt="ibrahimcerkezoglu.dev" />
   </a>
 </p>
 
@@ -102,4 +104,4 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 [![Website](https://img.shields.io/badge/Website-ibrahimcerkezoglu.dev-a855f7?style=flat&logo=googlechrome&logoColor=white)](https://ibrahimcerkezoglu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimcerkezoglu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cerkezogluibrahim@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-06b6d4?style=flat&logo=readdotcv&logoColor=white)](https://ibrahimcerkezoglu.dev/cv/ibrahim-cerkezoglu-cv-en.pdf)
+[![CV](https://img.shields.io/badge/CV_Indir-06b6d4?style=flat&logo=readdotcv&logoColor=white)](https://ibrahimcerkezoglu.dev/cv/ibrahim-cerkezoglu-cv-tr.pdf)

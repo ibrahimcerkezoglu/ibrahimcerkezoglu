@@ -2,9 +2,14 @@
 
 Full Stack Developer — .NET Core & SQL Server odaklı, yapay zekâ entegrasyonlu web ve mobil sistemler geliştiriyorum.
 Bilgisayar Mühendisliği (Lisans) · Uzaktan / Hibrit çalışmaya uygun · Türkçe (Ana Dil) · English (B1)
-🌐 [ibrahimcerkezoglu.dev](https://ibrahimcerkezoglu.dev)
 
-Karmaşık iş süreçlerini (pazaryerleri, muhasebe/ödeme sistemleri, admin panelleri) ölçeklenebilir mimarilere dönüştürüyor, yapay zekâyı gerçek ürünlere entegre ediyorum. Aşağıdaki projelerin çoğu 3+ yıldır aktif geliştirdiğim, gerçek kullanıcıları olan sistemler.
+<p>
+  <a href="https://ibrahimcerkezoglu.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolyo_Sitem-Case_Study'ler_%7C_CV_%7C_İletişim-a855f7?style=for-the-badge&logoColor=white" alt="ibrahimcerkezoglu.dev" />
+  </a>
+</p>
+
+Karmaşık iş süreçlerini (pazaryerleri, muhasebe/ödeme sistemleri, admin panelleri) ölçeklenebilir mimarilere dönüştürüyor, yapay zekâyı gerçek ürünlere entegre ediyorum. Aşağıdaki projelerin çoğu 3+ yıldır aktif geliştirdiğim, gerçek kullanıcıları olan sistemler — **detaylı case study'ler (mimari kararlar, istatistikler, öne çıkan mühendislik) için [ibrahimcerkezoglu.dev](https://ibrahimcerkezoglu.dev) adresine bakabilirsiniz.**
 
 ---
 
@@ -58,6 +63,8 @@ Menü yönetimi, online sipariş (PayPal + kapıda ödeme), sepet/checkout ve ma
 Kurumsal toplu SMS ve WhatsApp mesajlaşması için admin panelli bir gateway. ASP.NET Core yönetim paneli, WhatsApp Web protokolü üzerinden çalışan ayrı bir Node.js köprü servisiyle koordineli çalışıyor.
 `ASP.NET Core` `Node.js` `WhatsApp Bridge`
 
+Bu liste sadece öne çıkanlar — **[ibrahimcerkezoglu.dev/#projects](https://ibrahimcerkezoglu.dev/#projects)** adresinde 28 projenin tamamı, kategoriye göre filtreleme ve her biri için ayrı case study sayfası var.
+
 ---
 
 ## Deneyim & Diğer Çalışmalar
@@ -92,6 +99,7 @@ Detaylı iş deneyimi ve referanslar için [LinkedIn profilime](https://www.link
 
 ## İletişim
 
-[![Website](https://img.shields.io/badge/Website-ibrahimcerkezoglu.dev-000000?style=flat&logo=googlechrome&logoColor=white)](https://ibrahimcerkezoglu.dev)
+[![Website](https://img.shields.io/badge/Website-ibrahimcerkezoglu.dev-a855f7?style=flat&logo=googlechrome&logoColor=white)](https://ibrahimcerkezoglu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimcerkezoglu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cerkezogluibrahim@gmail.com)
+[![CV](https://img.shields.io/badge/CV_İndir-06b6d4?style=flat&logo=readdotcv&logoColor=white)](https://ibrahimcerkezoglu.dev/cv/ibrahim-cerkezoglu-cv.pdf)

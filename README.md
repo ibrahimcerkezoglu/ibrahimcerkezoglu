@@ -5,7 +5,7 @@ Bilgisayar Mühendisliği (Lisans) · Uzaktan / Hibrit çalışmaya uygun · Tü
 
 <p>
   <a href="https://ibrahimcerkezoglu.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolyo_Sitem-Case_Study'ler_%7C_CV_%7C_İletişim-a855f7?style=for-the-badge&logoColor=white" alt="ibrahimcerkezoglu.dev" />
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio_Site-Case_Studies_%7C_CV_%7C_Contact-a855f7?style=for-the-badge&logoColor=white" alt="ibrahimcerkezoglu.dev" />
   </a>
 </p>
 
